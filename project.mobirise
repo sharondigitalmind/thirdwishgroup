@@ -29,7 +29,8 @@
     "versionFirst": "4.8.6",
     "siteFonts": [],
     "uniqCompNum": 3,
-    "versionPublish": "4.8.6"
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
