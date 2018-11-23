@@ -47,7 +47,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
