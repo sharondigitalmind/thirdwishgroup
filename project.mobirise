@@ -787,7 +787,7 @@
                 "customStyle3": "display-4",
                 "title": "",
                 "overlay": false,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Joka Risk Management(Pty)Ltd<br>Head Office<br></a>    <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">We take care of your safety</a>"
               },
