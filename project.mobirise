@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 13,
+    "uniqCompNum": 16,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -179,65 +179,58 @@
           "_anchor": "msg-box5-9"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "showBullets": true,
+            "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/adobestock-89418129-preview-1000x589.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/adobestock-132117706-preview-1000x667.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "Commercial Security",
                 "contentAlign": "left",
                 "text": "Securing your stock and property is a critical business security requirement. If intruders get onto your premises they can steal or damage thousands of Rands worth of property, severely harming your company. Your offices, factories and warehouses",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.6"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/adobestock-210728678-preview-1000x436.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/adobestock-234016615-preview-1000x667.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "Home Security",
                 "contentAlign": "left",
-                "text": "JOKA RISK MANAGEMENT  home security products are a completely hassle free way to secure your home. We understand that not all homes will require the same level of attention to ensure that they are protected to a standard that the home",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a> "
+                "text": "JOKA RISK MANAGEMENT home security products are a completely hassle free way to secure your home. We understand that not all homes will require the same level of attention to ensure that they are protected to a standard that the home",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/adobestock-99649140-preview-1000x665.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobestock-99649140-preview-1-1000x665.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "Retail Security",
                 "contentAlign": "left",
-                "text": "Customer protection requires a sound relationship between the enterprise management; whether it is a shopping center, a financial institution or a health care facility, and the security service provider. We understand that our responsibility extends beyond  just guarding the premises.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Customer protection requires a sound relationship between the enterprise management; whether it is a shopping center, a financial institution or a health care facility, and the security service provider. We understand that our responsibility extends beyond just guarding the premises.</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.6"
+                "text": "Customer protection requires a sound relationship between the enterprise management; whether it is a shopping center, a financial institution or a health care facility, and the security service provider. We understand that our responsibility extends beyond just guarding the premises.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
               }
             ]
           },
-          "articleLayout": true,
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_anchor": "slider2-b",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "_name": "slider",
+          "_anchor": "slider-d"
         },
         {
           "_params": {
