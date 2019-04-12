@@ -119,7 +119,7 @@
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "slides": [
               {
