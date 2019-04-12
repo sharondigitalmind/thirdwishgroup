@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 #dropdown-menu-2btn-7 .hide-buttons [data-button] {
@@ -26,16 +26,12 @@
   font-size: 15px;
   font-family: 'Merriweather', serif;
 }
-#msg-box5-9 .mbr-header__text {
-  color: #050528;
-  font-family: 'Oswald', sans-serif;
-  font-size: 46px;
+#slider-i .btn {
+  font-size: 20px;
 }
-#msg-box5-9 .mbr-header__subtext {
+#slider-i H1 {
   color: #ffffff;
-}
-#msg-box5-9 .mbr-article {
-  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
 }
 #contacts3-c B {
   font-size: 36px;
