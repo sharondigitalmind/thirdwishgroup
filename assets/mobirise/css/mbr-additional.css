@@ -658,6 +658,9 @@ section.form .container {
 #header2-10 .mbr-section-title {
   color: #000000;
 }
+#header2-10 .mbr-section-text B {
+  font-size: 14px;
+}
 
 #footer1-n P {
   color: #c98b0b;
@@ -728,6 +731,7 @@ section.form .container {
 #header2-z .mbr-section-text {
   color: #000000;
   text-align: center;
+  font-size: 14px;
 }
 #header2-z .mbr-section-title {
   color: #000000;
@@ -806,4 +810,7 @@ section.form .container {
 #header2-x .mbr-section-text {
   color: #000000;
   text-align: center;
+}
+#header2-x .mbr-section-text B {
+  font-size: 14px;
 }

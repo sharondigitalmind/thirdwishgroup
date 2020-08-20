@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Uneversal Accounting and Tax Services",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -549,7 +549,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.7"
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our Team",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>Our Team",
           "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
           "_tags": [
             "Theme"
@@ -1002,7 +1002,7 @@
             }
           },
           "title": "NewCompany Setup",
-          "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.\tNew Company Setup\n<br>&nbsp; &nbsp; &nbsp; 2.\tWebsite Designs\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.\tAmend Company Director Details\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.\tAmend CC Member Details\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.\tFile Annual Returns\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6.\tCO &amp; CC Address Changes\n<br>7.\tName Changes\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8.\tWorkmen Compensation Registration\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9.\tLetter of Good Standing\n<br>&nbsp; 10.\tB-BBEE Certificate\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11.\tLoan Packages preparation\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.\tTender Preparation Business Plans&nbsp;</b><br>",
+          "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.\tNew Company Setup\n<br>&nbsp; &nbsp; &nbsp; 2.\tWebsite Designs\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.\tAmend Company Director Details\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.\tAmend CC Member Details\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.\tFile Annual Returns\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6.\tCO &amp; CC Address Changes\n<br>7.\tName Changes\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8.\tWorkmen Compensation Registration\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9.\tLetter of Good Standing\n<br>&nbsp; 10.\tB-BBEE Certificate\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11.\tLoan Packages preparation\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.\tTender Preparation Business Plans&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Get Qoute</a>",
           "_tags": [
             "Theme"
@@ -1016,6 +1016,9 @@
             },
             ".mbr-section-title": {
               "color": "#000000"
+            },
+            ".mbr-section-text B": {
+              "font-size": "14px"
             }
           }
         }
@@ -1182,7 +1185,7 @@
             }
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TAX Services",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp;1.\tCompany Tax Submission (IT14)\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.\tIndividual Tax Submission (IT12)\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.\tVAT 201 Submission\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4.\tEMP 201 &amp; 501 Submission\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.\tVAT &amp; PAYE Registration\n<br>&nbsp; &nbsp; 6.\tTCC Certificate\n<br>7.\tDeferred Tax\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8.\tSection 200 Application (Compromise)&nbsp;</b><br>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>1.\tCompany Tax Submission (IT14)\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.\tIndividual Tax Submission (IT12)</b><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.\tVAT 201 Submission\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4.\tEMP 201 &amp; 501 Submission\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.\tVAT &amp; PAYE Registrations</b><br><b>&nbsp; &nbsp;6.\tTCC Certificate\n</b><b><br></b><b>7.\tDeferred Tax\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8.\tSection 200 Application (Compromise)&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Get Qoute</a>",
           "_tags": [
             "Theme"
@@ -1192,7 +1195,8 @@
           "_styles": {
             ".mbr-section-text": {
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "14px"
             },
             ".mbr-section-title": {
               "color": "#000000",
@@ -1366,7 +1370,7 @@
             }
           },
           "title": "Accounting Services",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>1.\tAccounting services for small business\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.\tFinancial Statements\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.\tDebtors Reconciliation\n<br>&nbsp; &nbsp; &nbsp; 4.\tCreditors\n<br>5.\tBank\n<br>&nbsp; &nbsp; &nbsp; &nbsp;6.\tBudgets\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.\tCashflow\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8.\tPayroll Services&nbsp;</b><br>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>1.\tAccounting services for small business</b><b><br></b><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.\tFinancial Statements\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.\tDebtors Reconciliation\n</b><b><br></b><b>&nbsp; &nbsp; &nbsp; &nbsp;4.\tCreditors\n<br>5.\tBank\n<br>&nbsp; &nbsp; &nbsp; &nbsp;6.\tBudgets\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.\tCashflow\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8.\tPayroll Services&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Get Qoute</a>",
           "_tags": [
             "Theme"
@@ -1380,6 +1384,9 @@
             ".mbr-section-text": {
               "color": "#000000",
               "text-align": "center"
+            },
+            ".mbr-section-text B": {
+              "font-size": "14px"
             }
           }
         }
