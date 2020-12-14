@@ -110,7 +110,7 @@
               "background": "linear-gradient(to left, @secondaryColor, @primaryColor)"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#040402"
+              "color": "#000000"
             },
             ".mbr-section-title, .title-wrapper": {
               "color": "#040402"
